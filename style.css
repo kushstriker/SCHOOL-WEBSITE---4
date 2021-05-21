@@ -1,0 +1,58 @@
+.my_nav_bar 
+{
+   position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+input
+{
+    background: grey;
+}
+
+.campus life_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+     float: none
+}
+
+.campus life_mainDiv img
+{
+    width: 100p%;
+}
+
+.campus life_mainDiv hr
+{
+    width: 230px;
+}
+
+.campus life_mainDiv h5 , .campus life_mainDiv p
+{
+margin-left: 20px;    
+}
+
+. achievements_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+. achievements_head i
+{
+float: right;
+}
+
+. achievements_text span
+{
+color:#ff7700;
+}
+
+.img-circle
+{
+    border-width: 10px;
+    border-color: darkblue;
+}
